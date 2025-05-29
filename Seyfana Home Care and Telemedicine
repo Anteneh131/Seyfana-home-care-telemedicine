@@ -1,101 +1,101 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Seyfana Home Care & Telemed</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Seyfana Home Care & Telemedicine</title>
   <style>
     body {
       font-family: Arial, sans-serif;
+      line-height: 1.6;
       margin: 0;
       padding: 0;
-      background-color: #f8f8f8;
+      background: #f4f4f4;
       color: #333;
-      line-height: 1.6;
     }
     header {
-      background-color: #007b5e;
-      color: white;
+      background: #0057a3;
+      color: #fff;
       padding: 20px;
       text-align: center;
     }
-    header img {
-      height: 60px;
-      margin-bottom: 10px;
-    }
-    section {
+    .container {
       padding: 20px;
+      max-width: 900px;
+      margin: auto;
+      background: #fff;
     }
-    .section-title {
-      color: #007b5e;
-      margin-bottom: 10px;
+    h1, h2, h3 {
+      color: #0057a3;
     }
     ul {
       padding-left: 20px;
     }
     footer {
-      background-color: #007b5e;
-      color: white;
       text-align: center;
-      padding: 10px;
-      margin-top: 30px;
-    }
-    .cta {
-      background-color: #e0f7f3;
-      padding: 15px;
-      border-left: 5px solid #007b5e;
-      margin: 20px 0;
+      font-size: 0.9em;
+      color: #777;
+      margin-top: 40px;
+      padding: 20px;
     }
   </style>
 </head>
 <body>
+
   <header>
-    <img src="https://sefanahospital.com/assets/images/logo.png" alt="Seyfana Hospital Logo" />
-    <h1>Seyfana Home Care & Telemed</h1>
+    <h1>Seyfana Home Care & Telemedicine</h1>
     <p>Trusted care from the comfort of your home</p>
-  </header>  <section>
-    <h2 class="section-title">About Us</h2>
-    <p>
-      Seyfana Home Care & Telemed is a digital healthcare service provided by Seyfana Primary Hospital. Our mission is to bridge the gap between patients and healthcare professionals through technology, compassion, and personalized care. We serve individuals and families who seek professional medical services in the comfort of their homes.
-    </p>
-  </section>  <section>
-    <h2 class="section-title">Core Services</h2>
-    <ul>
-      <li>Doctor home visits</li>
-      <li>Online medical consultations via phone or video</li>
-      <li>Diagnostic sample collection at home</li>
-      <li>Medication delivery & prescription management</li>
-      <li>Maternal & child care services</li>
-      <li>Elderly & chronic disease follow-up care</li>
-      <li>Post-surgical nursing support</li>
-      <li>Nutrition and lifestyle coaching</li>
-    </ul>
-  </section>  <section>
-    <h2 class="section-title">Why Choose Us?</h2>
-    <ul>
-      <li>Experienced and certified medical professionals</li>
-      <li>Convenience and comfort of receiving care at home</li>
-      <li>Timely follow-up and continuous support</li>
-      <li>Affordable service packages</li>
-      <li>Secure telemedicine platform compliant with Ethiopian health policies</li>
-    </ul>
-  </section>  <section>
-    <h2 class="section-title">Booking & Contact</h2>
-    <div class="cta">
-      <p><strong>Need care now?</strong></p>
-      <p>Call or WhatsApp: <strong>+251 911 000 000</strong></p>
-      <p>Email us: <strong>info@sefanahospital.com</strong></p>
-      <p>Website: <a href="https://sefanahospital.com" target="_blank">www.sefanahospital.com</a></p>
-    </div>
-  </section>  <section>
-    <h2 class="section-title">FAQs</h2>
-    <p><strong>1. Do I need internet for telemedicine?</strong><br>Yes, for video calls. Phone consultations are also available.</p>
-    <p><strong>2. Are the services available 24/7?</strong><br>Emergency and palliative care services are available round the clock. General services are provided during business hours.</p>
-    <p><strong>3. Can I book for someone else?</strong><br>Yes, you can book for a family member or dependent.</p>
-  </section>  <section>
-    <h2 class="section-title">Languages</h2>
-    <p>We offer services in <strong>Amharic, Afaan Oromoo</strong>, and <strong>English</strong>.</p>
-  </section>  <footer>
-    &copy; 2025 Seyfana Primary Hospital - All rights reserved.
+  </header>
+
+  <div class="container">
+    <section>
+      <h2>About Us</h2>
+      <p>
+        <strong>Seyfana Home Care & Telemedicine</strong> is a digital healthcare service provided by <strong>Seyfana Primary Hospital</strong>. Our mission is to bridge the gap between patients and healthcare professionals through technology, compassion, and personalized care. We serve individuals and families who seek professional medical services in the comfort of their homes.
+      </p>
+    </section>
+
+    <section>
+      <h2>Core Services</h2>
+      <ul>
+        <li>Doctor home visits</li>
+        <li>Online medical consultations via phone or video</li>
+        <li>Diagnostic sample collection at home</li>
+        <li>Medication delivery & prescription management</li>
+        <li>Maternal & child care services</li>
+        <li>Elderly & chronic disease follow-up care</li>
+        <li>Post-surgical nursing support</li>
+        <li>Nutrition and lifestyle coaching</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Why Choose Us?</h2>
+      <ul>
+        <li>Experienced and certified medical professionals</li>
+        <li>Convenience and comfort of receiving care at home</li>
+        <li>Timely follow-up and continuous support</li>
+        <li>Affordable service packages</li>
+        <li>Secure telemedicine platform compliant with Ethiopian health policies</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>FAQs</h2>
+      <p><strong>1. Do I need internet for telemedicine?</strong><br>Yes, for video calls. Phone consultations are also available.</p>
+      <p><strong>2. Are the services available 24/7?</strong><br>Emergency and palliative care services are available round the clock. General services are provided during business hours.</p>
+      <p><strong>3. Can I book for someone else?</strong><br>Yes, you can book for a family member or dependent.</p>
+    </section>
+
+    <section>
+      <h2>Languages</h2>
+      <p>We offer services in <strong>Amharic, Afaan Oromoo, Sidamu Afoo</strong>, and <strong>English</strong>.</p>
+    </section>
+  </div>
+
+  <footer>
+    © 2025 Seyfana Primary Hospital - All rights reserved.
   </footer>
+
 </body>
 </html>

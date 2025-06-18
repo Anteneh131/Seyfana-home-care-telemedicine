@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Seyfana Home Care & Telemedicine</title>
+  <style>
+    body { font-family: sans-serif; background: #f7f7f7; padding: 20px; }
+    header { background: #0a5e2a; color: white; padding: 15px; border-radius: 8px; }
+    section { margin-top: 20px; background: white; padding: 15px; border-radius: 8px; }
+    h1, h2 { color: #0a5e2a; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🇪🇹 Seyfana Home Care & Telemedicine</h1>
+    <p>Professional, Caring & Affordable Health Services in Ethiopia</p>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>Seyfana provides home-based and online healthcare services to patients in Ethiopia. We connect clients with licensed medical professionals for OPD, emergency home care, teleconsultation, and follow-up services.</p>
+  </section>
+
+  <section>
+    <h2>Our Services</h2>
+    <ul>
+      <li>🏠 Home Care Visits</li>
+      <li>📞 Telemedicine Consultation</li>
+      <li>🩺 Specialist Referral & Booking</li>
+      <li>🧪 Lab Sample Collection</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p>📞 Phone: +251 92 619 8917</p>
+    <p>✉️ Email: seyfana@example.com</p>
+    <p>📱 Telegram: @seyfanahealth</p>
+  </section>
+
+</body>
+</html>
